@@ -7,3 +7,4 @@ print('I have strong fundamentals in python..')
 print('This is my 5th commit after manipulating file')
 
 print("currently i am in pune")
+print("It is commited")
