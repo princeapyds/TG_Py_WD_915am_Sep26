@@ -3,3 +3,4 @@ b = 20
 print(a+b)
 print("Hello")
 print("Hi")
+print("Bye")
