@@ -6,5 +6,6 @@ c=20
 print(b+c)
 course="python full stack"
 print('Hacker')
-print('bye')
+
 print(f"candidate name is {a} and its doing {course} ")
+print('bye')
